@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/45dceeae-36a6-4f64-bcf2-e2e838476a18/resourceGroups/grazac_group/providers/Microsoft.Web/sites/grazac",
+    "appService.deploySubpath": "."
+}
